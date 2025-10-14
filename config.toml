@@ -1,6 +1,6 @@
 baseURL = "https://bingx.joinhelpers.com/"
 languageCode = "ko-kr"
-title = "BingX 가입 가이드 | JoinHelpers"
+title = "BingX 媛??媛?대뱶 | JoinHelpers"
 theme = "PaperMod"
 enableRobotsTXT = true
 
@@ -12,19 +12,19 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    name = "가입 방법"
+    name = "媛??諛⑸쾿"
     url = "/guide/register/"
     weight = 1
   [[menu.main]]
-    name = "이용 방법"
+    name = "?댁슜 諛⑸쾿"
     url = "/guide/manual/"
     weight = 2
   [[menu.main]]
-    name = "추천인 변경"
+    name = "異붿쿇??蹂寃?
     url = "/referral-reset/"
     weight = 3
   [[menu.main]]
-    name = "이벤트"
+    name = "?대깽??
     url = "/event/"
     weight = 4
   [[menu.main]]

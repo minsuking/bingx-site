@@ -1,4 +1,4 @@
-﻿---
+---
 title: "BingX 가입 방법 (5분 완성)"
 description: "이메일/휴대폰 가입 → 2FA → KYC 순서로 한 번에 끝내는 BingX 가입 가이드"
 ---
