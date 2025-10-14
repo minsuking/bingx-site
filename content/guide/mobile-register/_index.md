@@ -1,85 +1,145 @@
 ---
-title: "빙엑스 KYC 이전 방법 | BingX 신원 이전 가이드 (기존 계정용)"
-description: "기존 BingX 계정이 있는 사용자가 새로운 계정으로 신원(KYC) 정보를 이전하는 방법을 단계별로 안내합니다. Verification 메뉴에서 Identity Transfer 기능을 통해 간편하게 진행하세요."
-keywords: ["빙엑스 KYC 이전", "BingX 신원이전", "빙엑스 기존계정", "BingX Identity Transfer", "빙엑스 인증 이전"]
+title: "빙엑스 모바일 가입 방법 | BingX 앱 회원가입 및 KYC 인증 가이드"
+description: "빙엑스(BingX) 모바일 앱에서 회원가입하고 KYC 본인인증, 보안설정(OTP)까지 완료하는 전체 과정을 단계별로 안내합니다. 추천코드 QJDP6W로 가입하면 최대 $5,100 보너스를 받을 수 있습니다."
+keywords: ["빙엑스 모바일 가입", "BingX 앱 가입", "빙엑스 KYC", "빙엑스 OTP", "빙엑스 회원가입", "BingX 추천코드"]
 ---
 
-# 🔄 빙엑스 KYC 이전 방법 (기존 계정이 있는 분만)
-
----
-
-<aside>
-💡 **이미 빙엑스 계정이 있으신 분 중, 새로운 추천 링크로 재가입하신 경우에만 본 과정을 진행하시면 됩니다.**
-</aside>
+# 📱 빙엑스 모바일 가입 방법
+**(BingX App 회원가입 + KYC 본인인증 가이드)**
 
 ---
 
-## 1️⃣ 프로필 메뉴 열기
+## 💡 추천 링크로 시작하기
 
-![빙엑스 프로필 클릭 화면](/img/guide/kyc-migration-01.png)
+👉 [Join BingX To Earn BTC, ETH and Receive Up to $5,100 Rewards](https://bingx.com/invite/QJDP6W/)  
 
-빙엑스 앱 좌측 상단의 **프로필(사람 모양) 아이콘**을 클릭합니다.  
-이 메뉴를 통해 계정 관련 설정으로 진입할 수 있습니다.
-
----
-
-## 2️⃣ Verification 메뉴 선택
-
-![빙엑스 Verification 메뉴](/img/guide/kyc-migration-02.png)
-
-다음 화면에서 **“Verification(본인 인증)”** 버튼을 클릭합니다.
+상단 링크를 스마트폰으로 열면 BingX 모바일 웹 또는 앱 설치 화면이 표시됩니다.
 
 ---
 
-## 3️⃣ Identity Transfer(신원이전) 클릭
+## 1️⃣ 이메일(또는 전화번호) / 비밀번호 입력
 
-![빙엑스 Identity Transfer](/img/guide/kyc-migration-03.png)
+![빙엑스 모바일 가입 화면](/img/guide/mobile-register-01.png)
 
-Verification 메뉴 안에서  
-**“Identity Transfer(신원이전)”** 버튼을 찾아 클릭합니다.
-
----
-
-## 4️⃣ 주의사항 확인
-
-![빙엑스 주의사항 동의](/img/guide/kyc-migration-04.png)
-
-주의사항 팝업이 나타납니다.  
-내용을 확인한 뒤 **“Don't remind me again”** 버튼을 눌러 진행합니다.
+- **이메일 또는 전화번호**를 입력합니다.  
+- **비밀번호**는 영문+숫자 조합으로 8~30자 이내로 설정해주세요.  
+- 추천코드 `QJDP6W`이 자동 입력되어 있는지 반드시 확인하세요.
 
 ---
 
-## 5️⃣ 기존 계정 이메일 인증
+## 2️⃣ 인증번호 입력 (이메일 또는 문자)
 
-![빙엑스 이메일 인증 단계](/img/guide/kyc-migration-05.png)
+![빙엑스 인증번호 입력](/img/guide/mobile-register-02.png)
 
-이전할 **기존 계정의 이메일 주소**를 입력하고  
-**Get Code** 버튼을 눌러 인증번호를 발송받습니다.  
-이메일로 전송된 코드를 입력하면 KYC 이전이 완료됩니다.
+- 이메일 또는 문자로 **6자리 인증번호**가 발송됩니다.  
+- 인증번호는 **5분 이내**에 입력해야 하며,  
+  만료 시 “재전송(Resend)”을 눌러 다시 받아주세요.
 
 ---
 
-## 📞 문의 및 지원
+## 3️⃣ KYC 본인인증을 위한 앱 설치
 
-이전 절차 중 오류가 발생하거나 화면 구성이 다르다면  
-아래 채널을 통해 문의 주시면 빠르게 도와드리겠습니다.
+KYC 인증은 모바일 앱에서만 가능하므로  
+가입 후 반드시 **BingX 공식 앱을 설치**해주세요.
 
-- 📱 **텔레그램:** [문의하기](#)  
+- iOS: App Store → “BingX” 검색  
+- Android: Play Store → “BingX” 검색
+
+---
+
+## 4️⃣ 마이페이지(프로필)에서 인증 메뉴 확인
+
+![빙엑스 프로필 진입](/img/guide/mobile-register-03.png)
+
+앱 실행 후 로그인 → 좌측 상단의 **프로필 아이콘(사람 모양)** 클릭  
+
+![빙엑스 Verification 진입](/img/guide/mobile-register-04.png)
+
+아래로 스크롤하면 **Verification(인증)** 메뉴가 있습니다.
+
+---
+
+## 5️⃣ KYC 인증 진행하기
+![빙엑스 KYC 인증선택](/img/guide/mobile-register-05.png)
+
+빙엑스 KYC 인증은 **신분증 이미지 + 얼굴 셀카 영상**  
+두 가지 단계를 거칩니다.
+
+- 사용할 수 있는 신분증:  
+  **운전면허증 / 주민등록증 / 여권**  
+- 촬영 시 주의사항:  
+  - 배경은 어두운 곳에서  
+  - 글자나 사진이 가려지지 않게  
+  - 반사되지 않도록 정면 촬영
+
+![빙엑스 신분증 선택](/img/guide/mobile-register-06.png)
+
+- 인증할수있는 신분증은 **운전면허증 / 주민등록증 / 여권** 입니다.
+
+![빙엑스 얼굴 인증 예시](/img/guide/mobile-register-07.png)
+
+- 얼굴 인증 시 **모자, 마스크 착용 금지**
+- 자연광 아래에서 깔끔하게 촬영
+
+---
+
+## 6️⃣ 보안(OTP) 인증 설정
+
+![빙엑스 보안 설정 진입](/img/guide/mobile-register-08.png)
+
+빙엑스 앱 좌측 상단 → **Security 탭 → Google Authenticator** 선택  
+이후 **Google OTP 앱**을 설치합니다.
+
+---
+
+### OTP 등록 절차
+
+![빙엑스 구글OTP 설정](/img/guide/mobile-register-09.png)
+
+1. BingX 화면에 표시된 **영문+숫자 키(Secret Key)** 복사  
+2. Google Authenticator 앱 실행 → **코드 추가 → 설정키 입력**  
+3. “내 계정 이름(예: BingX)” 입력 후 추가  
+4. OTP 코드가 생성되면 BingX 화면으로 돌아옵니다.  
+5. **Get Code** 버튼으로 이메일 인증번호 입력  
+6. **OTP 코드**를 입력하고 **Link** 클릭하면 연결 완료 ✅
+
+---
+
+## 🧩 7️⃣ 보안 설정 완료 화면
+
+![빙엑스 OTP 인증 완료](/img/guide/mobile-register-10.png)
+
+이제 OTP 코드가 정상적으로 생성되면  
+빙엑스 계정의 **이중 보안(2FA)** 설정이 완료된 것입니다.
+
+이후 로그인, 출금, 거래 시  
+Google OTP 인증을 통해 계정을 안전하게 보호할 수 있습니다.
+
+---
+
+## 💬 문의 및 지원
+
+가입이나 인증 중 어려운 부분이 있다면  
+아래 링크로 문의주시면 빠르게 도와드리겠습니다.
+
+- 📱 **텔레그램:** [문의하기](#)
 - 💬 **오픈카톡:** [바로가기](#)
 
 ---
 
-## 🧩 요약표
+## 🔍 요약표
 
-| 단계 | 내용 | 비고 |
+| 단계 | 설명 | 비고 |
 |------|------|------|
-| 1 | 프로필 아이콘 클릭 | 좌측 상단 |
-| 2 | Verification 선택 | 본인 인증 메뉴 |
-| 3 | Identity Transfer 클릭 | 신원 이전 기능 |
-| 4 | 주의사항 동의 | Don't remind me again |
-| 5 | 이메일 인증 | 기존 계정 메일로 코드 입력 |
+| 1 | 이메일·비밀번호 입력 | 추천코드 자동 적용 |
+| 2 | 인증번호 입력 | 5분 내 입력 필수 |
+| 3 | 앱 설치 | iOS/Android 모두 가능 |
+| 4 | Verification 진입 | 프로필 아이콘 클릭 |
+| 5 | 신분증·얼굴 인증 | 운전면허/여권 가능 |
+| 6 | 보안 설정 | Google OTP 연결 |
+| 7 | 완료 확인 | 2FA 활성화 |
 
 ---
 
 ## 🔍 검색 최적화용 주요 키워드
-> 빙엑스 KYC 이전, BingX Identity Transfer, 빙엑스 신원 이전, BingX 기존 계정 인증, 빙엑스 본인 인증 이전, BingX 계정 마이그레이션
+> 빙엑스 모바일 가입, BingX 앱 가입, 빙엑스 회원가입, BingX KYC 인증, 빙엑스 OTP 설정, BingX 구글 OTP, BingX 보안 설정, 빙엑스 앱 설치
