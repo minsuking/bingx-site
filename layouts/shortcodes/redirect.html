@@ -3,17 +3,15 @@
 {{- $ms := int $delayStr -}}
 {{- $sec := div $ms 1000 -}}
 
-<!-- JS: millisecond precision -->
 <script>
-  (function() {
-    var to = {{ printf "%q" $to }};
+  (function () {
+    var to = {{ $to | jsonify }};   // JS 안전 문자열(따옴표 포함된 JSON literal)
     var ms = {{ $ms }};
-    setTimeout(function(){ window.location.href = to; }, ms);
+    setTimeout(function(){ window.location.assign(to); }, ms);
   })();
 </script>
 
-<!-- noscript fallback: second precision -->
 <noscript>
   <meta http-equiv="refresh" content="{{ $sec }};url={{ $to }}">
-  <p>곧 <a href="{{ $to }}" rel="nofollow">이동</a>합니다. 브라우저가 자동으로 이동하지 않으면 링크를 클릭하세요.</p>
+  <p>곧 <a href="{{ $to }}" rel="nofollow">이동</a>합니다. 자동 이동이 되지 않으면 링크를 클릭하세요.</p>
 </noscript>
