@@ -3,10 +3,7 @@
   --------------------------------*/}}
   
   {{/* guide/join 페이지만 RankMath 메타 실행 (슬래시 포함) */}}
-  {{ if eq .RelPermalink "/guide/join/" }}
-    {{ partial "seo-rankmath.html" . }}
-  {{ end }}
-
+  {{ partial "seo-rankmath.html" . }}
 <!-- GA4 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
 <script>
