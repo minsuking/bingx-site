@@ -1,5 +1,5 @@
-baseURL = "https://okx.joinhelpers.com/"
-title = "OKX 가이드 (2025 최신) | JoinHelpers"
+baseURL = "https://bingx.joinhelpers.com/"
+title = "빙엑스 가이드 (2025 최신) | JoinHelpers"
 languageCode = "ko-kr"
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -25,7 +25,7 @@ canonifyURLs = true
   ShowBreadCrumbs = true
   ShowToc = true
   comments = false
-  description = "OKX 가입·수수료·이용·KYC까지 한 번에 끝내는 2025 최신 공식 가이드"
+  description = "빙엑스 가입·수수료·이용·KYC 이전까지 한 번에 끝내는 2025 최신 공식 가이드"
   author = "JoinHelpers"
   images = ["images/og-cover.png"]
   mainSections = []
