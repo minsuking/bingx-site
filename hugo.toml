@@ -37,9 +37,6 @@ canonifyURLs = true
   [params.assets]
     favicon = "/favicon.ico"  # 기본 파비콘
 
-  [params.homeInfoParams]
-    Title = "빙엑스(BingX) 거래소 완전 정리"
-
 [sitemap]
   changefreq = "daily"
   priority   = 0.5
